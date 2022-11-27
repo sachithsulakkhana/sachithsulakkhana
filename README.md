@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 Name - Sachith Sulakkhana<br>💼 Profession - QA-Engineer, Freelance Developer<br>🎒 Graduate - Coventry University<br>🎓 Degree - BSc (Hons) Information Technology for Business  <br>🧑‍💻 Developer Profile - ssulakkhana.dev<br>🚀 Techie Profile Since - 2017<br>💖 First Programming - Visual Basic.Net<br>
+🤓 Name - Sachith Sulakkhana<br>💼 Profession - Software Engineer, Freelance Developer<br>🎒 Graduate - Coventry University<br>🎓 Degree - BSc (Hons) Information Technology for Business  <br>🧑‍💻 Developer Profile - ssulakkhana.dev<br>🚀 Techie Profile Since - 2017<br>💖 First Programming - Visual Basic.Net<br>
 
 
 ## 🌐 Socials:
